@@ -1,6 +1,6 @@
 # My Manager README
 
-Hi, I'm Edgar, as your manager, I look forward to getting to know you more through conversations and interactions. To give you a head start in knowing me I'd like to share my management style, philosophy, expectations and some information about myself.
+Hola, I'm Edgar, as your manager, I look forward to getting to know you more through conversations and interactions. To give you a head start in knowing me I'd like to share my management style, philosophy, expectations and some information about myself.
 
 This is a living document, which will change. Please let me know if you have any feedback on how to make this more useful to you and the team. 
 
